@@ -3,7 +3,7 @@ Unleash the Power of Heap Sort!
 
 To follow on youtube : https://youtu.be/JygmlgWPhHk
 
-To follow on Medium : https://medium.com/@unleased_coder
+To follow on Medium : [https://medium.com/@unleased_coder](https://medium.com/@unleased_coder/heap-sort-ad3572b3c25b)
 
 This Repo has both Swit and Java Code 
 
